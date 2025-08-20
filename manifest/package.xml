@@ -6,7 +6,15 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>KanaSearchControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>LicenseController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>LicenseControllerTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -14,11 +22,23 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>QuoteLineItemControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>QuoteProductSelectionController</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>QuoteProductSelectionControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>ShohinKouseiController</members>
+        <name>ApexClass</name>
+    </types>
+        <types>
+        <members>ShohinKouseiControllerTest</members>
         <name>ApexClass</name>
     </types>
 </Package>
